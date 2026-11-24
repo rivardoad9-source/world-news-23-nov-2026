@@ -291,9 +291,52 @@ def union(text=None):
     return _svg("".join(b), "#cbd5e1", text)
 
 
+def sanctions(text=None):
+    b = [_ground("#8d8a82", 76), '<path d="M50,30 L120,6 L190,30Z" fill="#d9d3c5"/><rect x="56" y="30" width="128" height="6" fill="#c9c2b0"/>']
+    for x in (64, 88, 112, 136, 160):
+        b.append(f'<rect x="{x}" y="38" width="12" height="36" fill="#efe9dd"/>')
+    b.append('<rect x="50" y="74" width="140" height="6" fill="#c9c2b0"/>')
+    b.append('<g transform="rotate(-8 120 48)"><rect x="76" y="34" width="88" height="26" rx="3" fill="#fff" stroke="#c62828" stroke-width="3"/>'
+             '<text x="120" y="53" font-family="Arial Black,Arial" font-weight="900" font-size="15" fill="#c62828" text-anchor="middle">SWIFT X</text></g>')
+    return _svg("".join(b), "#dfe7ef", text)
+
+
+def warning(text=None):
+    b = [_ground("#3b3b3b", 74), '<rect x="30" y="10" width="180" height="64" fill="#1f2a3a"/>']
+    b.append('<rect x="100" y="42" width="40" height="32" fill="#7f8c8d"/><rect x="96" y="38" width="48" height="6" fill="#95a5a6"/>')
+    for x in (112, 128):
+        b.append(f'<path d="M{x},38 L{x},26" stroke="#222" stroke-width="2"/><circle cx="{x}" cy="24" r="3.5" fill="#222"/>')
+    b.append('<path d="M36,44 L72,44 M168,44 L204,44" stroke="#ffd23f" stroke-width="3" stroke-dasharray="6 4"/>')
+    b.append('<path d="M52,18 l10,18 h-20z M188,18 l10,18 h-20z" fill="#ffd23f"/>'
+             '<text x="52" y="33" font-family="Arial Black" font-size="9" fill="#1f2a3a" text-anchor="middle">!</text>'
+             '<text x="188" y="33" font-family="Arial Black" font-size="9" fill="#1f2a3a" text-anchor="middle">!</text>')
+    return _svg("".join(b), "#cfd8e3", text)
+
+
+def carstrike(text=None):
+    b = [_ground("#6b7280", 76), '<rect x="10" y="12" width="220" height="34" fill="#9ca3af"/>',
+         '<path d="M10,12 L55,0 L100,12 L145,0 L190,12 L230,0 L230,12Z" fill="#6b7280"/>']
+    for x, c in ((30, "#d62828"), (120, "#1d4e89")):
+        b.append(f'<path d="M{x},66 h54 l-6,-14 h-34z" fill="{c}"/><rect x="{x - 2}" y="64" width="58" height="8" rx="3" fill="{c}"/>'
+                 f'<circle cx="{x + 12}" cy="73" r="5" fill="#111"/><circle cx="{x + 42}" cy="73" r="5" fill="#111"/>')
+    for i in range(6):
+        x = 18 + i * 14
+        b.append(f'<circle cx="{x}" cy="52" r="4.5" fill="#5b4636"/><rect x="{x - 4.5}" y="56" width="9" height="14" rx="3" fill="#d62828"/>')
+    b.append('<rect x="176" y="24" width="2" height="48" fill="#444"/><rect x="178" y="24" width="40" height="22" fill="#d62828"/>'
+             '<text x="198" y="40" font-family="Arial Black" font-size="10" fill="#fff" text-anchor="middle">STREIK</text>')
+    return _svg("".join(b), "#cbd5e1", text)
+
+
+def trophy(text=None):
+    b = ['<rect x="0" y="50" width="240" height="40" fill="#2f8f3a"/>', '<path d="M60,50 L60,90 M180,50 L180,90" stroke="#e8f5e9" stroke-width="1.5"/>',
+         '<path d="M96,14 h48 v18 a24,24 0 0 1 -48,0z" fill="#ffd23f"/><path d="M96,18 h-12 q-4,16 14,20 M144,18 h12 q4,16 -14,20" stroke="#ffd23f" stroke-width="4" fill="none"/>'
+         '<rect x="114" y="52" width="12" height="12" fill="#e0b21f"/><rect x="100" y="64" width="40" height="8" rx="2" fill="#b8860b"/>']
+    return _svg("".join(b), "#20304a", text)
+
+
 KINDS = {f.__name__: f for f in (fire, ship, strike, drone, ballot, protest, court, storm, quake, sport,
                                  market, health, plane, diplomacy, government, tech, flood, climate,
-                                 aid, police, space, rally, eu, nato, podium, cricket, union)}
+                                 aid, police, space, rally, eu, nato, podium, cricket, union, sanctions, warning, carstrike, trophy)}
 
 
 def banner(kind, text=None):

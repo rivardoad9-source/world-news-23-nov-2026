@@ -148,7 +148,7 @@ svg { display: block; width: 100%; height: 100%; }
 .nums div b { display: block; font: 700 21px/1 Bahnschrift, Arial; color: #ffcc33; }
 .nums div span { font-size: 10px; color: #c8d3e3; line-height: 1.15; display: block; }
 .also { min-width: 0; }
-.bottom { display: grid; grid-template-columns: minmax(0, 1fr) 262px; gap: 8px; margin: 6px 10px 0; height: 146px; }
+.bottom { display: grid; grid-template-columns: minmax(0, 1fr) 280px; gap: 8px; margin: 6px 10px 0; height: 146px; }
 .also h3, .map h3 { font: 700 12.5px Bahnschrift, Arial; letter-spacing: 1px; border-bottom: 2px solid #15181d; padding-bottom: 2px; margin-bottom: 3px; }
 .also ol { list-style: none; columns: 3; column-gap: 12px; }
 .also li { font-size: 10.2px; line-height: 1.25; break-inside: avoid; margin-bottom: 2px; white-space: nowrap; overflow: hidden; }
@@ -168,7 +168,8 @@ svg { display: block; width: 100%; height: 100%; }
 
 
 def small(a):
-    return f'<small>{esc(a[0])}</small>' if len(a[2]) + len(a[0]) <= 40 else ""
+    short = len(a[2]) + len(a[0]) <= (30 if len(a) > 4 and a[4] != "REPORTED" else 40)
+    return f'<small>{esc(a[0])}</small>' if short else ""
 
 
 def tag(a):

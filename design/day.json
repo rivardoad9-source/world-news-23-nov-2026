@@ -51,8 +51,8 @@
    "place": "SANTA CLARA, US",
    "region": "AMERICAS",
    "field": "Markets",
-   "headline": "Nvidia reinstates Jensen Huang as CEO; shares jump 31%",
-   "dek": "Board unanimously brings Huang back as CEO. S&P 500 +4.7% to 7,237: Wall Street's best day since April 2025.",
+   "headline": "Nvidia reinstates Huang; stock jumps 31%",
+   "dek": "Board unanimously brings Huang back as CEO. S&P 500 +4.7% to 7,237, Wall Street's best day since April 2025.",
    "source": "NBC News · CNBC · AP · Washington Post",
    "badge": "CONFIRMED",
    "scene": "rally",
@@ -95,7 +95,7 @@
    "dek": "60 more Russian banks off SWIFT, 70+ shadow-fleet ships. Aim: approval in December.",
    "source": "Euronews",
    "badge": "OFFICIAL",
-   "scene": "eu",
+   "scene": "sanctions",
    "text": "22nd",
    "lat": 50.85,
    "lon": 4.35
@@ -146,9 +146,10 @@
    "dek": "Spokesman Esmail Baghaei: the Revolutionary Guards will respond.",
    "source": "Morning Star",
    "badge": "OFFICIAL",
-   "scene": "podium",
+   "scene": "warning",
    "lat": 35.7,
-   "lon": 51.4
+   "lon": 51.4,
+   "text": "WARNS"
   },
   {
    "place": "BANGKOK",
@@ -183,7 +184,7 @@
    "dek": "23,000+ workers out for 24 hours at 19 sites; union seeks 5% for 3.7m.",
    "source": "Euronews",
    "badge": "REPORTED",
-   "scene": "union",
+   "scene": "carstrike",
    "lat": 53.55,
    "lon": 10.0
   },
@@ -195,7 +196,7 @@
    "dek": "England, Scotland, Wales, N. Ireland host; 2031 goes to the US and partners.",
    "source": "Euronews",
    "badge": "REPORTED",
-   "scene": "sport",
+   "scene": "trophy",
    "text": "2035",
    "lat": 52.5,
    "lon": -1.5
@@ -224,7 +225,7 @@
   [
    "Helsinki",
    "EUROPE",
-   "Finland summons Russia's envoy",
+   "Finland summons Russian envoy",
    "Euronews",
    "OFFICIAL"
   ],
