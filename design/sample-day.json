@@ -1,0 +1,340 @@
+{
+ "day": "Monday 23 November 2026",
+ "short": "MONDAY 23 NOVEMBER",
+ "tagline": "Sample tagline \u00b7 three leads \u00b7 go here",
+ "timeline": [
+  [
+   "01:00",
+   "sample event one"
+  ],
+  [
+   "06:30",
+   "sample event two"
+  ],
+  [
+   "10:00",
+   "sample three"
+  ],
+  [
+   "14:15",
+   "sample four"
+  ],
+  [
+   "19:00",
+   "sample five"
+  ],
+  [
+   "Evening",
+   "sample six"
+  ]
+ ],
+ "numbers": [
+  [
+   "259",
+   "Democratic House seats"
+  ],
+  [
+   "34",
+   "workers missing"
+  ],
+  [
+   "3+",
+   "ships hit"
+  ],
+  [
+   "180",
+   "tourists evacuated"
+  ],
+  [
+   "100+",
+   "Italian cities"
+  ]
+ ],
+ "leads": [
+  {
+   "place": "SAMPLE CITY 0",
+   "region": "EUROPE",
+   "field": "SAMPLE",
+   "headline": "Sample headline number 0 for fire",
+   "dek": "Two lines of sample dek text to test wrapping in the card at this width here.",
+   "source": "Reuters \u00b7 AP",
+   "badge": "REPORTED",
+   "scene": "fire",
+   "lat": 41.9,
+   "lon": 12.5
+  },
+  {
+   "place": "SAMPLE CITY 1",
+   "region": "MIDDLE EAST",
+   "field": "SAMPLE",
+   "headline": "Sample headline number 1 for ship",
+   "dek": "Two lines of sample dek text to test wrapping in the card at this width here.",
+   "source": "Reuters \u00b7 AP",
+   "badge": "CLAIM",
+   "scene": "ship",
+   "lat": 31.5,
+   "lon": 34.4
+  },
+  {
+   "place": "SAMPLE CITY 2",
+   "region": "AFRICA",
+   "field": "SAMPLE",
+   "headline": "Sample headline number 2 for strike",
+   "dek": "Two lines of sample dek text to test wrapping in the card at this width here.",
+   "source": "Reuters \u00b7 AP",
+   "badge": "OFFICIAL",
+   "scene": "strike",
+   "lat": -6.2,
+   "lon": 106.8
+  }
+ ],
+ "stories": [
+  {
+   "place": "SAMPLE CITY 3",
+   "region": "ASIA",
+   "field": "SAMPLE",
+   "headline": "Sample headline number 3 for drone",
+   "dek": "Two lines of sample dek text to test wrapping in the card at this width here.",
+   "source": "Reuters \u00b7 AP",
+   "badge": "ONGOING",
+   "scene": "drone",
+   "lat": 38.9,
+   "lon": -77
+  },
+  {
+   "place": "SAMPLE CITY 4",
+   "region": "AMERICAS",
+   "field": "SAMPLE",
+   "headline": "Sample headline number 4 for ballot",
+   "dek": "Two lines of sample dek text to test wrapping in the card at this width here.",
+   "source": "Reuters \u00b7 AP",
+   "badge": "REPORTED",
+   "scene": "ballot",
+   "lat": 51.5,
+   "lon": -0.1
+  },
+  {
+   "place": "SAMPLE CITY 5",
+   "region": "OCEANIA",
+   "field": "SAMPLE",
+   "headline": "Sample headline number 5 for protest",
+   "dek": "Two lines of sample dek text to test wrapping in the card at this width here.",
+   "source": "Reuters \u00b7 AP",
+   "badge": "CLAIM",
+   "scene": "protest",
+   "lat": 35.7,
+   "lon": 51.4
+  },
+  {
+   "place": "SAMPLE CITY 6",
+   "region": "WORLD",
+   "field": "SAMPLE",
+   "headline": "Sample headline number 6 for court",
+   "dek": "Two lines of sample dek text to test wrapping in the card at this width here.",
+   "source": "Reuters \u00b7 AP",
+   "badge": "OFFICIAL",
+   "scene": "court",
+   "lat": -33.9,
+   "lon": 151.2
+  },
+  {
+   "place": "SAMPLE CITY 7",
+   "region": "EUROPE",
+   "field": "SAMPLE",
+   "headline": "Sample headline number 7 for storm",
+   "dek": "Two lines of sample dek text to test wrapping in the card at this width here.",
+   "source": "Reuters \u00b7 AP",
+   "badge": "ONGOING",
+   "scene": "storm",
+   "lat": 1.3,
+   "lon": 103.8
+  },
+  {
+   "place": "SAMPLE CITY 8",
+   "region": "MIDDLE EAST",
+   "field": "SAMPLE",
+   "headline": "Sample headline number 8 for quake",
+   "dek": "Two lines of sample dek text to test wrapping in the card at this width here.",
+   "source": "Reuters \u00b7 AP",
+   "badge": "REPORTED",
+   "scene": "quake",
+   "lat": -1.3,
+   "lon": 36.8
+  },
+  {
+   "place": "SAMPLE CITY 9",
+   "region": "AFRICA",
+   "field": "SAMPLE",
+   "headline": "Sample headline number 9 for sport",
+   "dek": "Two lines of sample dek text to test wrapping in the card at this width here.",
+   "source": "Reuters \u00b7 AP",
+   "badge": "CLAIM",
+   "scene": "sport",
+   "lat": 19.4,
+   "lon": -99.1,
+   "text": "4-0"
+  },
+  {
+   "place": "SAMPLE CITY 10",
+   "region": "ASIA",
+   "field": "SAMPLE",
+   "headline": "Sample headline number 10 for market",
+   "dek": "Two lines of sample dek text to test wrapping in the card at this width here.",
+   "source": "Reuters \u00b7 AP",
+   "badge": "OFFICIAL",
+   "scene": "market",
+   "lat": 41.9,
+   "lon": 12.5
+  },
+  {
+   "place": "SAMPLE CITY 11",
+   "region": "AMERICAS",
+   "field": "SAMPLE",
+   "headline": "Sample headline number 11 for health",
+   "dek": "Two lines of sample dek text to test wrapping in the card at this width here.",
+   "source": "Reuters \u00b7 AP",
+   "badge": "ONGOING",
+   "scene": "health",
+   "lat": 31.5,
+   "lon": 34.4
+  },
+  {
+   "place": "SAMPLE CITY 12",
+   "region": "OCEANIA",
+   "field": "SAMPLE",
+   "headline": "Sample headline number 12 for plane",
+   "dek": "Two lines of sample dek text to test wrapping in the card at this width here.",
+   "source": "Reuters \u00b7 AP",
+   "badge": "REPORTED",
+   "scene": "plane",
+   "lat": -6.2,
+   "lon": 106.8
+  }
+ ],
+ "also": [
+  [
+   "Place 0",
+   "EUROPE",
+   "Sample one-line brief number 0",
+   "Reuters"
+  ],
+  [
+   "Place 1",
+   "MIDDLE EAST",
+   "Sample one-line brief number 1",
+   "Reuters"
+  ],
+  [
+   "Place 2",
+   "AFRICA",
+   "Sample one-line brief number 2",
+   "Reuters"
+  ],
+  [
+   "Place 3",
+   "ASIA",
+   "Sample one-line brief number 3",
+   "Reuters"
+  ],
+  [
+   "Place 4",
+   "AMERICAS",
+   "Sample one-line brief number 4",
+   "Reuters"
+  ],
+  [
+   "Place 5",
+   "OCEANIA",
+   "Sample one-line brief number 5",
+   "Reuters"
+  ],
+  [
+   "Place 6",
+   "WORLD",
+   "Sample one-line brief number 6",
+   "Reuters"
+  ],
+  [
+   "Place 7",
+   "EUROPE",
+   "Sample one-line brief number 7",
+   "Reuters"
+  ],
+  [
+   "Place 8",
+   "MIDDLE EAST",
+   "Sample one-line brief number 8",
+   "Reuters"
+  ],
+  [
+   "Place 9",
+   "AFRICA",
+   "Sample one-line brief number 9",
+   "Reuters"
+  ],
+  [
+   "Place 10",
+   "ASIA",
+   "Sample one-line brief number 10",
+   "Reuters"
+  ],
+  [
+   "Place 11",
+   "AMERICAS",
+   "Sample one-line brief number 11",
+   "Reuters"
+  ],
+  [
+   "Place 12",
+   "OCEANIA",
+   "Sample one-line brief number 12",
+   "Reuters"
+  ],
+  [
+   "Place 13",
+   "WORLD",
+   "Sample one-line brief number 13",
+   "Reuters"
+  ],
+  [
+   "Place 14",
+   "EUROPE",
+   "Sample one-line brief number 14",
+   "Reuters"
+  ],
+  [
+   "Place 15",
+   "MIDDLE EAST",
+   "Sample one-line brief number 15",
+   "Reuters"
+  ],
+  [
+   "Place 16",
+   "AFRICA",
+   "Sample one-line brief number 16",
+   "Reuters"
+  ],
+  [
+   "Place 17",
+   "ASIA",
+   "Sample one-line brief number 17",
+   "Reuters"
+  ]
+ ],
+ "check": "Every story on this page happened or was first reported on Monday 23 November 2026 (UTC).",
+ "left_out": [
+  [
+   "COP31 ends without a deal",
+   "Sun 22 Nov"
+  ],
+  [
+   "Benghazi warship claim",
+   "Sun 22 Nov"
+  ],
+  [
+   "ICJ Rohingya ruling",
+   "Thu 19 Nov"
+  ]
+ ],
+ "foot": "HOW SURE: REPORTED = carried by the day's wires \u00b7 CLAIM = one side's account \u00b7 Scenes are drawn illustrations, not photographs."
+}

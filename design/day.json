@@ -1,0 +1,375 @@
+{
+ "day": "Monday 23 November 2026",
+ "short": "MONDAY 23 NOVEMBER",
+ "tagline": "Nvidia takes Huang back, stock +31% · Strikes kill 15+ near Kyiv · Banten fire toll hits 24",
+ "timeline": [
+  [
+   "Overnight",
+   "Russian strikes, Kyiv region"
+  ],
+  [
+   "~06:30",
+   "KOSPI -3.3%"
+  ],
+  [
+   "~08:00",
+   "India-Nepal deals"
+  ],
+  [
+   "~16:00",
+   "EU 22nd sanctions package"
+  ],
+  [
+   "~17:20",
+   "UK gets 2035 Women's World Cup"
+  ],
+  [
+   "21:00",
+   "Wall St close: Nvidia +31%"
+  ]
+ ],
+ "numbers": [
+  [
+   "+31%",
+   "Nvidia shares after Huang is reinstated as CEO"
+  ],
+  [
+   "+4.7%",
+   "S&P 500, Wall Street's best day since April 2025"
+  ],
+  [
+   "15+",
+   "killed by Russian strikes in Kyiv region"
+  ],
+  [
+   "24+",
+   "dead in the Banten candy-factory fire"
+  ]
+ ],
+ "leads": [
+  {
+   "place": "SANTA CLARA, US",
+   "region": "AMERICAS",
+   "field": "Markets",
+   "headline": "Nvidia reinstates Jensen Huang as CEO; shares jump 31%",
+   "dek": "Board unanimously brings Huang back as CEO. S&P 500 +4.7% to 7,237: Wall Street's best day since April 2025.",
+   "source": "NBC News · CNBC · AP · Washington Post",
+   "badge": "CONFIRMED",
+   "scene": "rally",
+   "text": "+31%",
+   "lat": 37.4,
+   "lon": -122.0
+  },
+  {
+   "place": "KYIV REGION, UKRAINE",
+   "region": "EUROPE",
+   "field": "War",
+   "headline": "Russian overnight strikes kill at least 15",
+   "dek": "Dymer: 11 dead in a five-storey block after a 22-hour rescue. Vyshneve supermarket: 3 dead, 15 hurt.",
+   "source": "Euronews · AFP · toll per Ukrainian officials",
+   "badge": "CONFIRMED",
+   "scene": "strike",
+   "lat": 50.8,
+   "lon": 30.3
+  },
+  {
+   "place": "SERANG, BANTEN, INDONESIA",
+   "region": "ASIA",
+   "field": "Disaster",
+   "headline": "Candy-factory fire toll rises to at least 24",
+   "dek": "Police raise the toll on Monday; about 300 workers were inside when it began on Saturday. DNA needed to identify victims.",
+   "source": "Euronews · ABC News/AP",
+   "badge": "CONFIRMED",
+   "scene": "fire",
+   "text": "24+",
+   "lat": -6.1,
+   "lon": 106.15
+  }
+ ],
+ "stories": [
+  {
+   "place": "BRUSSELS",
+   "region": "EUROPE",
+   "field": "Sanctions",
+   "headline": "EU unveils 22nd Russia sanctions package",
+   "dek": "60 more Russian banks off SWIFT, 70+ shadow-fleet ships. Aim: approval in December.",
+   "source": "Euronews",
+   "badge": "OFFICIAL",
+   "scene": "eu",
+   "text": "22nd",
+   "lat": 50.85,
+   "lon": 4.35
+  },
+  {
+   "place": "BRUSSELS",
+   "region": "EUROPE",
+   "field": "Defence",
+   "headline": "NATO meets over Russian missiles in Poland",
+   "dek": "Extraordinary session. Rutte: NATO will defend every inch.",
+   "source": "Stars and Stripes · DW",
+   "badge": "CONFIRMED",
+   "scene": "nato",
+   "lat": 50.85,
+   "lon": 4.35
+  },
+  {
+   "place": "NEW DELHI",
+   "region": "ASIA",
+   "field": "Diplomacy",
+   "headline": "India and Nepal sign 8 deals",
+   "dek": "Modi hosts Nepal PM Shah: Rs 15,000 crore (~$1.6bn) in grants and credit.",
+   "source": "ANI · Deccan Herald",
+   "badge": "CONFIRMED",
+   "scene": "diplomacy",
+   "text": "8 DEALS",
+   "lat": 28.6,
+   "lon": 77.2
+  },
+  {
+   "place": "SEOUL",
+   "region": "ASIA",
+   "field": "Markets",
+   "headline": "KOSPI slides 3.3% on AI-bubble fears",
+   "dek": "Lowest close since 13 Jan at 4,708.54; trading curb hit after a 5.8% drop.",
+   "source": "Korea Times · Al Jazeera",
+   "badge": "CONFIRMED",
+   "scene": "market",
+   "text": "-3.3%",
+   "lat": 37.6,
+   "lon": 127.0
+  },
+  {
+   "place": "TEHRAN",
+   "region": "MIDDLE EAST",
+   "field": "Diplomacy",
+   "headline": "Iran warns it will answer any US attack",
+   "dek": "Spokesman Esmail Baghaei: the Revolutionary Guards will respond.",
+   "source": "Morning Star",
+   "badge": "OFFICIAL",
+   "scene": "podium",
+   "lat": 35.7,
+   "lon": 51.4
+  },
+  {
+   "place": "BANGKOK",
+   "region": "ASIA",
+   "field": "Justice",
+   "headline": "Thai MP's royal-defamation verdict upheld",
+   "dek": "Rukchanok Srinork's term cut from 6 to 3 years; she will appeal.",
+   "source": "AP · Reuters",
+   "badge": "CONFIRMED",
+   "scene": "court",
+   "text": "3 YRS",
+   "lat": 13.75,
+   "lon": 100.5
+  },
+  {
+   "place": "NORTHERN GAZA",
+   "region": "MIDDLE EAST",
+   "field": "Conflict",
+   "headline": "Israeli strikes kill 4+, incl. UNRWA worker",
+   "dek": "UN agency worker Adel Al-Helo was killed near a water well.",
+   "source": "Havana Times · Democracy Now",
+   "badge": "CONFIRMED",
+   "scene": "strike",
+   "lat": 31.5,
+   "lon": 34.45
+  },
+  {
+   "place": "N. GERMANY (19 SITES)",
+   "region": "EUROPE",
+   "field": "Labour",
+   "headline": "IG Metall strikes hit Mercedes and BMW",
+   "dek": "23,000+ workers out for 24 hours at 19 sites; union seeks 5% for 3.7m.",
+   "source": "Euronews",
+   "badge": "REPORTED",
+   "scene": "union",
+   "lat": 53.55,
+   "lon": 10.0
+  },
+  {
+   "place": "UNITED KINGDOM",
+   "region": "EUROPE",
+   "field": "Football",
+   "headline": "UK to host the 2035 Women's World Cup",
+   "dek": "England, Scotland, Wales, N. Ireland host; 2031 goes to the US and partners.",
+   "source": "Euronews",
+   "badge": "REPORTED",
+   "scene": "sport",
+   "text": "2035",
+   "lat": 52.5,
+   "lon": -1.5
+  },
+  {
+   "place": "WELLINGTON",
+   "region": "OCEANIA",
+   "field": "Cricket",
+   "headline": "India v New Zealand first Test drawn",
+   "dek": "New Zealand bat out day five at 239/5 after India's 720/9 declared.",
+   "source": "ESPNcricinfo · Outlook India",
+   "badge": "CONFIRMED",
+   "scene": "cricket",
+   "text": "DRAW",
+   "lat": -41.3,
+   "lon": 174.8
+  }
+ ],
+ "also": [
+  [
+   "Estarreja, PT",
+   "EUROPE",
+   "LEGO to build €1bn factory",
+   "Euronews"
+  ],
+  [
+   "Helsinki",
+   "EUROPE",
+   "Finland summons Russia's envoy",
+   "Euronews",
+   "OFFICIAL"
+  ],
+  [
+   "Brussels",
+   "EUROPE",
+   "Hack of EU Commission blamed on China",
+   "Euronews"
+  ],
+  [
+   "Brussels",
+   "EUROPE",
+   "Rutte rejects Russia's NATO demand",
+   "Euronews"
+  ],
+  [
+   "Berlin",
+   "EUROPE",
+   "Merz: 2008 NATO no to Kyiv a mistake",
+   "Euronews"
+  ],
+  [
+   "Libya",
+   "AFRICA",
+   "Zelensky confirms corvette attack",
+   "Euronews",
+   "CLAIM"
+  ],
+  [
+   "Yemen",
+   "MIDDLE EAST",
+   "Hodeida strike killed 6, ministry says",
+   "Morning Star",
+   "CLAIM"
+  ],
+  [
+   "DR Congo",
+   "AFRICA",
+   "WHO chief urges peace in Ebola areas",
+   "Morning Star"
+  ],
+  [
+   "Sydney",
+   "OCEANIA",
+   "ASX 200 falls 8th day in a row",
+   "ABC"
+  ],
+  [
+   "Brussels",
+   "EUROPE",
+   "Visegrad four object to EU budget",
+   "Euronews"
+  ],
+  [
+   "Brussels",
+   "EUROPE",
+   "8 EU states defend carbon market",
+   "Euronews"
+  ],
+  [
+   "Reykjavik",
+   "EUROPE",
+   "Blue Lagoon IPO raises ISK 14.3bn",
+   "Euronews"
+  ],
+  [
+   "Paris",
+   "EUROPE",
+   "Choose France: €14.9bn, 273 projects",
+   "Euronews"
+  ],
+  [
+   "Brussels",
+   "EUROPE",
+   "Tear gas at anti-austerity march",
+   "Euronews"
+  ],
+  [
+   "El Hierro",
+   "EUROPE",
+   "Nearly 300 migrants land in 5 boats",
+   "Euronews"
+  ],
+  [
+   "Athens",
+   "EUROPE",
+   "Greece renews Parthenon marbles call",
+   "Euronews"
+  ],
+  [
+   "Brussels",
+   "EUROPE",
+   "EU antitrust probe of Coca-Cola bottler",
+   "Euronews"
+  ],
+  [
+   "Hong Kong",
+   "ASIA",
+   "BYD shares close 1.9% lower",
+   "Reuters"
+  ]
+ ],
+ "check": "Every story on this page happened or was first reported on Monday 23 November 2026 (UTC).",
+ "left_out": [
+  [
+   "COP31 ends with no deal",
+   "Sun 22"
+  ],
+  [
+   "Russian corvette sunk at Benghazi",
+   "Sun 22"
+  ],
+  [
+   "Ships struck in Strait of Hormuz",
+   "Sat-Sun 21-22"
+  ],
+  [
+   "EU-Indonesia trade pact",
+   "Sat 21"
+  ],
+  [
+   "Gaza aid-vehicle strike",
+   "Sat 21"
+  ],
+  [
+   "Missiles land in Poland",
+   "Fri 20"
+  ],
+  [
+   "Student protests in Europe",
+   "Fri 20"
+  ],
+  [
+   "Dutch BYD ruling",
+   "Fri 20"
+  ],
+  [
+   "Delta outage",
+   "Sun 22"
+  ],
+  [
+   "World Court Myanmar ruling",
+   "Thu 19"
+  ]
+ ],
+ "not_yet": "Cygnus ISS cargo launch (no earlier than 29 Nov) · Taiwan local elections (28 Nov) · Lowy Asia Power Index (26 Nov)",
+ "foot": "HOW SURE: CONFIRMED = 2+ outlets · OFFICIAL = on the record · REPORTED = one outlet (unmarked briefs) · CLAIM = one side's account. Sources: AP, Reuters, AFP, Euronews, NBC News, CNBC, Washington Post, Al Jazeera, Korea Times, ANI, ESPNcricinfo, ABC, Morning Star, Democracy Now. Scenes are drawn illustrations, not photographs."
+}
