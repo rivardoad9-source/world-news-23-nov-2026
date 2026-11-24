@@ -142,10 +142,10 @@
    "place": "TEHRAN",
    "region": "MIDDLE EAST",
    "field": "Diplomacy",
-   "headline": "Iran warns it will answer any US attack",
-   "dek": "Spokesman Esmail Baghaei: the Revolutionary Guards will respond.",
-   "source": "Morning Star",
-   "badge": "OFFICIAL",
+   "headline": "Iran vows 'all tools' against US blockade",
+   "dek": "Spokesman Baghaei: Hormuz could reopen if the US ends the blockade and lifts sanctions.",
+   "source": "Khaleej Times · Times of Israel · Gulf News",
+   "badge": "CONFIRMED",
    "scene": "warning",
    "lat": 35.7,
    "lon": 51.4,
@@ -177,29 +177,29 @@
    "lon": 34.45
   },
   {
-   "place": "N. GERMANY (19 SITES)",
-   "region": "EUROPE",
-   "field": "Labour",
-   "headline": "IG Metall strikes hit Mercedes and BMW",
-   "dek": "23,000+ workers out for 24 hours at 19 sites; union seeks 5% for 3.7m.",
-   "source": "Euronews",
-   "badge": "REPORTED",
-   "scene": "carstrike",
-   "lat": 53.55,
-   "lon": 10.0
+   "place": "VILLAVICENCIO",
+   "region": "AMERICAS",
+   "field": "Security",
+   "headline": "Colombia car bomb injures 23",
+   "dek": "Meta governor's office: no deaths, 80+ kg of explosives; dissidents blamed, unconfirmed.",
+   "source": "El Tiempo · Infobae · CNN Español",
+   "badge": "CONFIRMED",
+   "scene": "carbomb",
+   "text": "23 HURT",
+   "lat": 4.15,
+   "lon": -73.6
   },
   {
-   "place": "UNITED KINGDOM",
-   "region": "EUROPE",
+   "place": "LAUSANNE",
+   "region": "AFRICA",
    "field": "Football",
-   "headline": "UK to host the 2035 Women's World Cup",
-   "dek": "England, Scotland, Wales, N. Ireland host; 2031 goes to the US and partners.",
-   "source": "Euronews",
-   "badge": "REPORTED",
+   "headline": "Court sets ruling on Senegal's AFCON title",
+   "dek": "CAS confirms its decision on CAF stripping Senegal of the 2025 title is due Tuesday.",
+   "source": "Al Jazeera · Reuters",
+   "badge": "OFFICIAL",
    "scene": "trophy",
-   "text": "2035",
-   "lat": 52.5,
-   "lon": -1.5
+   "lat": 46.5,
+   "lon": 6.6
   },
   {
    "place": "WELLINGTON",
@@ -236,18 +236,6 @@
    "Euronews"
   ],
   [
-   "Brussels",
-   "EUROPE",
-   "Rutte rejects Russia's NATO demand",
-   "Euronews"
-  ],
-  [
-   "Berlin",
-   "EUROPE",
-   "Merz: 2008 NATO no to Kyiv a mistake",
-   "Euronews"
-  ],
-  [
    "Libya",
    "AFRICA",
    "Zelensky confirms corvette attack",
@@ -255,11 +243,38 @@
    "CLAIM"
   ],
   [
-   "Yemen",
+   "Hodeida, Yemen",
    "MIDDLE EAST",
    "Hodeida strike killed 6, ministry says",
    "Morning Star",
    "CLAIM"
+  ],
+  [
+   "Jerusalem",
+   "MIDDLE EAST",
+   "Eisenkot: no Iran threat for now",
+   "Khaleej Times",
+   "OFFICIAL"
+  ],
+  [
+   "West Bank",
+   "MIDDLE EAST",
+   "Police arrest 7 teens at settler outpost",
+   "Times of Israel"
+  ],
+  [
+   "Tehran",
+   "MIDDLE EAST",
+   "Iran says courts seek $290bn from US",
+   "Khaleej Times",
+   "CLAIM"
+  ],
+  [
+   "Doha",
+   "MIDDLE EAST",
+   "US-Qatar minerals framework",
+   "The National",
+   "OFFICIAL"
   ],
   [
    "DR Congo",
@@ -268,64 +283,93 @@
    "Morning Star"
   ],
   [
+   "Johannesburg",
+   "AFRICA",
+   "Joburg mayor vote delayed to Friday",
+   "eNCA"
+  ],
+  [
+   "Johannesburg",
+   "AFRICA",
+   "Crime Intelligence chief sues the state",
+   "Mail & Guardian"
+  ],
+  [
+   "S. Africa",
+   "AFRICA",
+   "SA police: 18,049 arrests in a week",
+   "SAnews",
+   "OFFICIAL"
+  ],
+  [
+   "Washington",
+   "AMERICAS",
+   "US Treasury adds new Iran sanctions",
+   "Khaleej Times"
+  ],
+  [
+   "Rio de Janeiro",
+   "AMERICAS",
+   "Petrobras plans US$122bn for 2027-31",
+   "Rio Times"
+  ],
+  [
+   "Brasilia",
+   "AMERICAS",
+   "Brazil cuts 2026 growth forecast to 1.9%",
+   "Rio Times"
+  ],
+  [
+   "Landover, US",
+   "AMERICAS",
+   "Commanders edge Bengals 22-20",
+   "Yahoo Sports · ESPN"
+  ],
+  [
+   "Nanjing",
+   "ASIA",
+   "China, Swiss agree AI dialogue",
+   "Xinhua",
+   "OFFICIAL"
+  ],
+  [
+   "Dhaka",
+   "ASIA",
+   "Garment wage talks stall",
+   "Daily Star",
+   "CONFIRMED"
+  ],
+  [
+   "Manila",
+   "ASIA",
+   "Transport strike begins",
+   "Philstar",
+   "CONFIRMED"
+  ],
+  [
+   "Dushanbe",
+   "ASIA",
+   "Tajikistan becomes 4th state to quit ICC",
+   "Reuters"
+  ],
+  [
    "Sydney",
    "OCEANIA",
    "ASX 200 falls 8th day in a row",
    "ABC"
   ],
   [
-   "Brussels",
-   "EUROPE",
-   "Visegrad four object to EU budget",
-   "Euronews"
+   "Vanuatu",
+   "OCEANIA",
+   "M6.5 quake, no casualties reported",
+   "USGS",
+   "OFFICIAL"
   ],
   [
-   "Brussels",
-   "EUROPE",
-   "8 EU states defend carbon market",
-   "Euronews"
-  ],
-  [
-   "Reykjavik",
-   "EUROPE",
-   "Blue Lagoon IPO raises ISK 14.3bn",
-   "Euronews"
-  ],
-  [
-   "Paris",
-   "EUROPE",
-   "Choose France: €14.9bn, 273 projects",
-   "Euronews"
-  ],
-  [
-   "Brussels",
-   "EUROPE",
-   "Tear gas at anti-austerity march",
-   "Euronews"
-  ],
-  [
-   "El Hierro",
-   "EUROPE",
-   "Nearly 300 migrants land in 5 boats",
-   "Euronews"
-  ],
-  [
-   "Athens",
-   "EUROPE",
-   "Greece renews Parthenon marbles call",
-   "Euronews"
-  ],
-  [
-   "Brussels",
-   "EUROPE",
-   "EU antitrust probe of Coca-Cola bottler",
-   "Euronews"
-  ],
-  [
-   "Hong Kong",
-   "ASIA",
-   "BYD shares close 1.9% lower",
-   "Reuters"
+   "Zurich",
+   "WORLD",
+   "FIFA names 2031, 2035 Women's Cup hosts",
+   "ESPN · Euronews"
   ]
  ],
  "check": "Every story on this page happened or was first reported on Monday 23 November 2026 (UTC).",
@@ -363,14 +407,18 @@
    "Fri 20"
   ],
   [
-   "Delta outage",
+   "World Court Myanmar ruling",
+   "Thu 19"
+  ],
+  [
+   "Kenya-DRC ties restored",
    "Sun 22"
   ],
   [
-   "World Court Myanmar ruling",
-   "Thu 19"
+   "Khartoum drone strikes hit UN site",
+   "Sun 22"
   ]
  ],
  "not_yet": "Cygnus ISS cargo launch (no earlier than 29 Nov) · Taiwan local elections (28 Nov) · Lowy Asia Power Index (26 Nov)",
- "foot": "HOW SURE: CONFIRMED = 2+ outlets · OFFICIAL = on the record · REPORTED = one outlet (unmarked briefs) · CLAIM = one side's account. Sources: AP, Reuters, AFP, Euronews, NBC News, CNBC, Washington Post, Al Jazeera, Korea Times, ANI, ESPNcricinfo, ABC, Morning Star, Democracy Now. Scenes are drawn illustrations, not photographs."
+ "foot": "HOW SURE: CONFIRMED = 2+ outlets · OFFICIAL = on the record · REPORTED = one outlet (unmarked briefs) · CLAIM = one side's account. Sources: AP, Xinhua, Daily Star, The National, USGS, Yahoo Sports, ESPN, CBS, El Tiempo, Infobae, Mail & Guardian, SAnews, Reuters, AFP, Euronews, NBC, CNBC, Washington Post, Al Jazeera, Khaleej Times, Times of Israel, Gulf News, ESPN, Rio Times, eNCA, Korea Times, ANI, ABC. Scenes are drawn illustrations, not photographs."
 }

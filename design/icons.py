@@ -329,14 +329,28 @@ def carstrike(text=None):
 
 def trophy(text=None):
     b = ['<rect x="0" y="50" width="240" height="40" fill="#2f8f3a"/>', '<path d="M60,50 L60,90 M180,50 L180,90" stroke="#e8f5e9" stroke-width="1.5"/>',
+         '<g transform="translate(38,6)">',
          '<path d="M96,14 h48 v18 a24,24 0 0 1 -48,0z" fill="#ffd23f"/><path d="M96,18 h-12 q-4,16 14,20 M144,18 h12 q4,16 -14,20" stroke="#ffd23f" stroke-width="4" fill="none"/>'
-         '<rect x="114" y="52" width="12" height="12" fill="#e0b21f"/><rect x="100" y="64" width="40" height="8" rx="2" fill="#b8860b"/>']
+         '<rect x="114" y="52" width="12" height="12" fill="#e0b21f"/><rect x="100" y="64" width="40" height="8" rx="2" fill="#b8860b"/></g>']
     return _svg("".join(b), "#20304a", text)
+
+
+def carbomb(text=None):
+    b = [_city("#8a8f98", y=64, seed=9), _ground("#4b5563", 64)]
+    b.append('<circle cx="120" cy="50" r="30" fill="#f77f00" opacity=".5"/>')
+    b.append('<path d="M92,62 h56 l-6,-14 h-40z" fill="#9aa4b2"/><rect x="88" y="60" width="64" height="9" rx="3" fill="#7b8696"/>'
+             '<circle cx="104" cy="70" r="5.5" fill="#111"/><circle cx="138" cy="70" r="5.5" fill="#111"/>')
+    b.append(flame(112, 48, 0.85))
+    b.append(flame(130, 50, 0.65))
+    b.append(smoke(120, 24, 0.55, "#3f3f46"))
+    for x in (36, 60, 184, 208):
+        b.append(f'<path d="M{x},66 l4,-6 l5,8 l4,-9" stroke="#c9ced6" stroke-width="2" fill="none"/>')
+    return _svg("".join(b), "#c6cdd6", text)
 
 
 KINDS = {f.__name__: f for f in (fire, ship, strike, drone, ballot, protest, court, storm, quake, sport,
                                  market, health, plane, diplomacy, government, tech, flood, climate,
-                                 aid, police, space, rally, eu, nato, podium, cricket, union, sanctions, warning, carstrike, trophy)}
+                                 aid, police, space, rally, eu, nato, podium, cricket, union, sanctions, warning, carstrike, trophy, carbomb)}
 
 
 def banner(kind, text=None):

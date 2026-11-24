@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261123/rivardoad9-source/world-news-23-nov-2026/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 [![reward](https://make.fun/badge/news-image-20261123/rivardoad9-source/world-news-23-nov-2026/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 
-One 1024×1024 front page summing up the world news of Monday 23 November 2026: a date masthead, a UTC timeline, three illustrated leads (Nvidia reinstating Jensen Huang with shares up 31%, Russian strikes killing 15+ near Kyiv, the Banten candy-factory fire toll reaching 24), ten smaller stories, 18 one-line briefs, a world map, and a DATE CHECK box naming stories left out because they were first reported on an earlier day. Every label (CONFIRMED / OFFICIAL / REPORTED / CLAIM) is as sourced.
+One 1024×1024 front page summing up the world news of Monday 23 November 2026: a date masthead, a UTC timeline, three illustrated leads (Nvidia reinstating Jensen Huang with shares up 31%, Russian strikes killing 15+ near Kyiv, the Banten candy-factory fire toll reaching 24), ten smaller stories, 24 one-line briefs (37 stories in all, across seven regions), a world map, and a DATE CHECK box naming stories left out because they were first reported on an earlier day. Every label (CONFIRMED / OFFICIAL / REPORTED / CLAIM) is as sourced.
 
 ![entry](entry.png)
 
